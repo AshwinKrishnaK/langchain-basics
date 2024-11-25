@@ -1,0 +1,5 @@
+AI agents are autonomous programs designed to perceive their environment, process information, and take actions to achieve specific goals. These agents are powered by artificial intelligence technologies such as machine learning (ML), natural language processing (NLP), and reinforcement learning (RL). They can be broadly classified into:
+
+Reactive Agents: Respond directly to stimuli without memory.
+Cognitive Agents: Possess memory and reasoning capabilities, enabling planning and adaptation.
+Multi-Agent Systems (MAS): Composed of multiple agents interacting to solve complex tasks collaboratively or competitively.
